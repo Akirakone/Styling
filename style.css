@@ -1,0 +1,36 @@
+h1{
+    background-color: black;
+    color: #ffe6e6;
+    font-size: 55px;
+    font-style: normal;
+    font-family: monospace;
+    font-weight: 50px;
+    margin: 7px;
+    padding: 20px;
+    
+}
+
+h2{
+    background-color: purple;
+    color: white;
+    text-align: center;
+    font-style: normal;
+    font-family: monospace;
+    font-size: 40px;
+    margin: 7px;
+}
+
+h3{
+    background-color: rgb(154, 205, 247);
+    color: darkblue;
+    padding: 10px;
+    text-align: right;
+    text-decoration: underline;
+    font-family: monospace;
+    font-size: 17px;
+    margin: 7px;
+    
+}
+
+
+
